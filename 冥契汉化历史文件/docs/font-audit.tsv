@@ -1,0 +1,28 @@
+﻿bitmap_size_mismatches	compressed_size	fallback_like_records	file	file_size	game_characters	game_characters_covered	game_characters_missing	glyph_data_size	height	invalid_offsets	kind	mapped_codepoints	metadata_size	records	width
+0	30579	0	k_dfhanayasushigoshikkukaradaw3.fnt					6300588	20	0			108504	9042	20
+			k_minamotomakotogoshikkutouhabanormal_20x20.fnt	13260972							special-FNT-DATA				
+0	27556	0	system09b.fnt					2299092	9	0			108504	9042	9
+0	28354	0	system10b.fnt					2491216	10	0			108504	9042	10
+0	26162	0	system12.fnt					4599040	12	0			108504	9042	12
+0	28016	0	system14.fnt					5258544	14	0			108504	9042	14
+0	28763	1548	system16.fnt					6417296	16	0			108504	9042	16
+0	26305	1	system16b.fnt					4475608	16	0			108504	9042	16
+0	32238	1548	system24b.fnt					11139552	24	0			108504	9042	24
+0	33084	1548	system32.fnt					15042092	32	0			108504	9042	32
+0	573	0	systemascii07.fnt					29488	7	0			1908	159	7
+0	620	0	systemascii08.fnt					36384	8	0			1908	159	8
+0	652	0	systemascii10.fnt					47560	10	0			1908	159	10
+0	640	0	systemascii12.fnt					53952	12	0			1908	159	12
+0	669	0	systemascii12b.fnt					71632	12	0			1908	159	12
+0	651	0	systemascii14.fnt					67336	14	0			1908	159	14
+0	687	0	systemascii14b.fnt					86792	14	0			1908	159	14
+0	697	0	systemascii16.fnt					82776	16	0			1908	159	16
+0	718	0	systemascii16b.fnt					104324	16	0			1908	159	16
+0	711	0	systemascii20.fnt					108072	20	0			1908	159	20
+0	746	0	systemascii24.fnt					131552	24	0			1908	159	24
+0	771	0	systemascii24b.fnt					158348	24	0			1908	159	24
+0	764	0	systemascii32.fnt					206928	32	0			1908	159	32
+0	782	0	systemascii32b.fnt					275680	32	0			1908	159	32
+			dfgotp5.ttc		2433	2433	0				ttc	7515			
+			dfhsr4.ttc		2433	2433	0				ttc	7515			
+			dfmrg5_u.ttc		2433	2433	0				ttc	13038			

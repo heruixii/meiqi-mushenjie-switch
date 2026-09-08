@@ -1,0 +1,62 @@
+﻿# Default deny: this local directory also contains full game/extracted resources.
+/*
+
+# Repository metadata/docs
+!/.gitignore
+!/README.md
+!/GITHUB_BACKUP.md
+
+# Final Chinese patch (exclude duplicate archive)
+!/汉化补丁/
+/汉化补丁/*
+!/汉化补丁/09_release/
+!/汉化补丁/09_release/**
+/汉化补丁/09_release.rar
+
+# Source-level project history
+!/冥契汉化历史文件/
+/冥契汉化历史文件/*
+!/冥契汉化历史文件/docs/
+!/冥契汉化历史文件/docs/**
+!/冥契汉化历史文件/06_scripts/
+!/冥契汉化历史文件/06_scripts/**
+!/冥契汉化历史文件/03_text/
+/冥契汉化历史文件/03_text/*
+!/冥契汉化历史文件/03_text/翻译规范.md
+!/冥契汉化历史文件/03_text/glossary/
+!/冥契汉化历史文件/03_text/glossary/**
+!/冥契汉化历史文件/03_text/translated/
+/冥契汉化历史文件/03_text/translated/*
+!/冥契汉化历史文件/03_text/translated/translation-sheet.tsv
+!/冥契汉化历史文件/03_text/translated/validation-pc-full-safe-unique.tsv
+!/冥契汉化历史文件/02_work/
+/冥契汉化历史文件/02_work/*
+!/冥契汉化历史文件/02_work/pc_switch_scene_report.tsv
+!/冥契汉化历史文件/02_work/pc_voice_candidates.tsv
+!/冥契汉化历史文件/02_work/pc_patch_archive/
+/冥契汉化历史文件/02_work/pc_patch_archive/*
+!/冥契汉化历史文件/02_work/pc_patch_archive/Meikei no Lupercalia patch/
+/冥契汉化历史文件/02_work/pc_patch_archive/Meikei no Lupercalia patch/*
+!/冥契汉化历史文件/02_work/pc_patch_archive/Meikei no Lupercalia patch/最终修正版+说明.txt
+
+# Never commit full game/container/keys/archives/virtualenvs
+*.nsp
+*.nsz
+*.nca
+*.xci
+*.xcz
+*.xp3
+*.keys
+prod.keys
+*.key
+*.pem
+*.pfx
+*.p12
+.env
+.env.*
+*.rar
+*.7z
+*.zip
+.venv/
+__pycache__/
+*.pyc
